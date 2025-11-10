@@ -44,10 +44,9 @@ https://github.com/microsoft/WSL/releases/tag/2.3.17
 * open powershell as admin:
 ```bash
 wsl --version
-
+```
 ```
 wsl --set-default-version 2
-```
 ```
 * install Ubuntu :
 ```bash
